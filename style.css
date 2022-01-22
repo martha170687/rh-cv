@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Nova+Mono&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#geral{
+    color: #404040;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+#cabecalho{
+    color: #022873;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+#esquerda{
+    float: left;
+    padding: 3px;
+    width: 350px;
+}
+
+#direita{
+    float: right;
+    padding: 3px;
+    width: 560px;
+    text-align: justify;
+}
+
+#rodape{
+    margin: 780px;
+    padding: 12px;
+}
+
+hr{
+    border-top: 1px solid #457ABF;
+    width: 90%; 
+}
+
+#full{
+    border-top: 2px solid #457ABF;
+    align-self: center; 
+}
+
+h2{
+    padding: 2px;
+    text-align: center;
+}
+h3{
+    padding: 2px;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+#h4_{
+    text-align: justify;
+}
+
+img {
+    position: initial;
+    text-align: center;
+}
+
+p{
+    margin-right: 18px;
+    padding: 2px;
+    text-align: justify;
+    text-indent: 30px;
+}
+
+ul{
+    text-indent: 20px;
+}
